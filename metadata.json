@@ -1,0 +1,5 @@
+{
+  "name": "Today's Meal",
+  "description": "A smart meal suggestion platform for Indian households featuring ingredient-based search, weekly planning based on science and astrology, and AI-powered recipe generation.",
+  "requestFramePermissions": []
+}
